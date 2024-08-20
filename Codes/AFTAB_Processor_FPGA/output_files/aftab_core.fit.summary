@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Aug 30 16:43:25 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : aftab_core
+Top-level Entity Name : aftab_core
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 6,861 / 33,216 ( 21 % )
+    Total combinational functions : 5,441 / 33,216 ( 16 % )
+    Dedicated logic registers : 3,874 / 33,216 ( 12 % )
+Total registers : 3874
+Total pins : 76 / 475 ( 16 % )
+Total virtual pins : 0
+Total memory bits : 106,496 / 483,840 ( 22 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

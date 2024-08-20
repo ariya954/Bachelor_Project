@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at aftab_register.v(27): object "Rreg" differs only in case from object "RREG" in the same scope
+Info (10281): Verilog HDL Declaration information at aftab_divider_datapath.v(40): object "sub" differs only in case from object "SUB" in the same scope
+Warning (10273): Verilog HDL warning at aftab_DAWU_datapath.v(138): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at aftab_DAWU_datapath.v(140): extended using "x" or "z"
